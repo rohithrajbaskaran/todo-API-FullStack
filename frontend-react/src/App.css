@@ -1,0 +1,21 @@
+
+/* In App.css */
+li{
+  list-style-type: none;
+}
+
+.wrap-text {
+  word-wrap: break-word; 
+  overflow-wrap: break-word; 
+  max-width: 300px; 
+  min-width: 137px;
+}
+
+.no-border{
+  border-radius: 0;
+  border: 0 !important;
+  margin: 0 !important;
+  padding-top: 3px !important;
+  padding-bottom: 3px !important;
+}
+
