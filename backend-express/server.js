@@ -11,9 +11,9 @@ const port = 3001; // or any port you prefer
 const db = new Client({
   user: "postgres",
   host: "localhost",
-  database: "world",
-  password: "Kavitha123@",
-  port: 5432,
+  database: "",
+  password: "",
+  port: 0000,
 });
 
 // Connect to the database
